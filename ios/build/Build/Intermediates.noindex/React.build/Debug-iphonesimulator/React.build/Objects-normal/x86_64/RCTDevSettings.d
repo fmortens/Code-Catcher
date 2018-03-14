@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/fmortens/Projects/react-native/Code-Catcher/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h
