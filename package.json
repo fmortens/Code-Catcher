@@ -24,7 +24,7 @@
     "mobx": "^4.0.1",
     "mobx-react": "^5.0.0",
     "react": "16.2.0",
-    "react-native": "0.52.0",
+    "react-native": "^0.61.5",
     "react-native-camera": "^1.0.2",
     "react-native-uuid-generator": "^3.0.2",
     "react-native-vector-icons": "^4.5.0",
